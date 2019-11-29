@@ -1,0 +1,41 @@
+.container{
+	min-height:500px;
+	border: dashed DarkRed ;
+	position: relative;
+}
+.box{
+	width: 120px;
+	height: 120px;
+	position: absolute;
+}
+.box1{
+	background: aqua;
+	left: 0;
+	right: 0;
+	margin:190px auto;
+
+}
+.box2{
+	background: red;
+	top: 0;
+	left: 0;
+
+}
+.box3{
+	background: blue;
+	right: 0;
+	top: 0;
+
+}
+.box4{
+	background: DarkViolet ;
+	right: 0;
+	bottom:0;
+
+}
+.box5{
+	background: Fuchsia ;
+	left: 0;
+	bottom:0;
+
+}

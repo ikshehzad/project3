@@ -1,0 +1,45 @@
+.header{
+	min-height: 150px;
+	background: PaleGreen ;
+	margin-top:10px;
+	margin-bottom:10;
+	border: solid black;
+}
+.wrapper{
+	overflow: hidden;
+	border:5px solid Purple ;
+}
+.blog{
+	float: left;
+	width: 72%;
+	background-color:blue;
+	min-height:440px;
+	margin-top: 50px;
+	border:3px solid Crimson  ;
+
+}
+.contact{
+	float: right;
+	width: 25%;
+	min-height:400px;
+	background-color:red;
+	margin-top:50px;
+	border:5px solid Cyan ;
+
+}
+.about{
+	min-height: 200px;
+	background: CornflowerBlue ;
+	margin-top:10px;
+	margin-bottom:10;
+	border:5px dotted Chartreuse ;
+
+}
+.footer{
+	min-height: 100px;
+	background: DarkSlateBlue  ;
+	margin-top:10px;
+	margin-bottom:10;
+	border:5px dotted DeepPink  ;
+
+}
